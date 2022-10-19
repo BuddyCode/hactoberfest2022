@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width", initial-scale="1.0">
+        <title> My Portfolio Websites</title>
+    </head>
+    <body>
+        <h1> My Portfolio Websites</h1>
+        <img src="teesha.jpeg" width="200">
+        <h3>Teesha Bhagat</h3>
+        <p>MERN Stack Developer(in progress)</p>
+
+        <hr />
+        
+        <section>
+        <h2>Skills:</h2>
+        <ul>
+            <li>
+
+            
+            Frontend :
+            <ol>
+                <li>HTML</li>
+                <li>CSS</li>
+           </ol>
+            </li>
+
+        
+            
+        </ul>
+    </section>
+
+    <section>
+        <h2>Education:</h2>
+        
+    <table border="2">
+        <thead>
+            
+        <tr>
+            <th>Time</th>
+            <th>Education</th>
+            <th>Percentage/cgpa</th>
+             
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>March 2019</td>
+            <td>Class 10</td>
+            <td>85%</td>
+        </tr>
+        <tr>
+            <td>March 2021</td>
+            <td>Class 12</td>
+            <td>86.3%</td>
+        </tr>
+        <tr>
+            <td>July 2022</td>
+            <td>1st Year</td>
+            <td>7.15cgpa</td>
+        </tr>
+    
+        </tbody>
+        
+    </table>
+
+</section>
+
+<a href="project2.html">Contact Me</a>
+
+    </body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width", initial-scale="1.0">
+        <title>Contact Me</title> 
+    </head>
+    <body>
+        <h3>Contact ME</h3>
+        <br />
+        <a href=" mailto:teeshabhagat115@gmail.com">teeshabhagat115@gmail.com</a>
+        <br />
+        <a href="930250xxxx">930250xxxx</a>
+        <br />
+        <a href="abcddeg">LinkedIn URL</a>
+
+        <br />
+        <br />
+        <br />
+      
+
+
+        <form action="mailto:teeshabhagat115@gmail.com" method="post" enctype="text/plain">
+            <label for="userAge">Your Name:</label>
+            <input type="text" name="name" value="" id="userName"   />
+
+            <br />
+            <label for="userAge">Age</label>
+            <input type="text" name="age" id="userAge"  />
+            
+            <br />
+
+            <label>Mobile:</label>
+            <input type="text" name="mobile" />
+            <br />
+            
+            <label for="">Message:</label>
+            <br />
+            <textarea name="" id="" cols="50" rows="20"></textarea>
+            <br />
+            <input type="submit" />
+            </form>
+            
+        </body>
+        </html>

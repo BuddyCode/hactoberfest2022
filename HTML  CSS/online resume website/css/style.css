@@ -76,6 +76,11 @@
     font-weight: normal;
 }
 
+/**hover animation**/
+.btn:hover{
+    color: #160452;
+}
+
 
 /*** Navbar ***/
 .navbar.fixed-top {
